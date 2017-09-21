@@ -1,5 +1,9 @@
 package fr.tp3.console;
 
+/**
+ * @author Florent Callaou
+ * Main de l'application 
+ */
 public class Main {
 
 	public static void main(String[] args) {
